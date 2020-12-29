@@ -1,10 +1,12 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=marslanali&show_icons=true">
-### Hi there 👋💻
+# Hi there 👋💻
 
 * I'm Arslan Ali working mainly in C++ & Linux. I design, build, and maintain efficient, reusable, and reliable C++ codes. I also have a strong passion for AI & Machine Learning. 
 
 * 💬 Feel free to reach me for work-related inquiries.
 
+🌐 [marslanali.github.io/](https://marslanali.github.io/)<br>
+💼 [Email](marslanali800@gmail.com)<br>
 <!--
 **Marslanali/marslanali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
