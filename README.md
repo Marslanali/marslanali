@@ -6,7 +6,7 @@
 * 💬 Feel free to reach me for work-related inquiries.
 
 🌐 [marslanali.github.io/](https://marslanali.github.io/)<br>
-💼 [Email](marslanali800@gmail.com)<br>
+💼 [Email: marslanali800@gmail.com](marslanali800@gmail.com)<br>
 <!--
 **Marslanali/marslanali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
