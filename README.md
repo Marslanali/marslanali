@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=marslanali&show_icons=true">
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=marslanali)](https://github.com/marslanali/github-readme-stats">
+
 
 ### Hi there 👋💻
 
