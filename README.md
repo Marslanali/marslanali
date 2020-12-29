@@ -2,13 +2,13 @@
 
 I'm Arslan Ali working mainly in C++ & Linux. I design, build, and maintain efficient, reusable, and reliable C++ codes. I also have a strong passion for AI & Machine Learning. 
 
+💬 Feel free to reach me for work-related inquiries.
+
+
 ![Arslan Ali github stats](https://github-readme-stats.vercel.app/api?username=marslanali&show_icons=true)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marslanali)](https://github.com/marslanali/github-readme-stats)
 
-
-
-💬 Feel free to reach me for work-related inquiries.
 
 <!--
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
