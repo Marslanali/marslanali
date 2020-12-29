@@ -1,18 +1,18 @@
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=marslanali&show_icons=true">
+
 ### Hi there 👋💻
 
-I'm Arslan Ali working mainly in C++ & Linux. I design, build, and maintain efficient, reusable, and reliable C++ codes. I also have a strong passion for AI & Machine Learning. 
+* I'm Arslan Ali working mainly in C++ & Linux. I design, build, and maintain efficient, reusable, and reliable C++ codes. I also have a strong passion for AI & Machine Learning. 
 
-💬 Feel free to reach me for work-related inquiries.
+* 💬 Feel free to reach me for work-related inquiries.
 
 
-![Arslan Ali github stats](https://github-readme-stats.vercel.app/api?username=marslanali&show_icons=true)
+![Arslan Ali github stats]()
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marslanali)](https://github.com/marslanali/github-readme-stats)
 
 
 <!--
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
-
 **Marslanali/marslanali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
