@@ -5,6 +5,10 @@ I'm Arslan Ali working mainly in C++ & Linux. I design, build, and maintain effi
 [![Arslan Ali github stats](https://github-readme-stats.vercel.app/api?username=marslanali)](https://github.com/marslanali/github-readme-stats)
 
 
+![Arslan Ali github stats](https://github-readme-stats.vercel.app/api?username=marslanali&show_icons=true)
+
+
+
 💬 Feel free to reach me for work-related inquiries.
 
 <!--
