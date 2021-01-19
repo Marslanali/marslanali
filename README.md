@@ -1,6 +1,5 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=marslanali&show_icons=true">
 
-
 # Hi there I'm Arslan Ali 👋💻
 
 * I am an avid learner with expertise lies in C/C++, Python, and Linux. I am well acquainted with code review, refactoring, testing, maintaining, and writing excellent documentation.
@@ -9,11 +8,11 @@
 
 Here are some of my open-source projects. 
 
-* [Gaussian mixture regression C++](https://github.com/Marslanali/cpp-learning-fom-demonstration)
-* [Template Matching C++](https://github.com/Marslanali/cpp-template-matching)
-* [Kmeans Clustering C++](https://github.com/Marslanali/cpp-kmeans-clustering)
-* [PaserCSV C++](https://github.com/Marslanali/cpp-csv-parser)
-* [ZeroMQ Publisher/Subsriber C++](https://github.com/Marslanali/ZeroMQ)
+- [Gaussian mixture regression](https://github.com/Marslanali/cpp-learning-fom-demonstration)(C++)
+- [Template Matching](https://github.com/Marslanali/cpp-template-matching)(C++)
+- [Kmeans Clustering](https://github.com/Marslanali/cpp-kmeans-clustering)(C++)
+- [PaserCSV](https://github.com/Marslanali/cpp-csv-parser)(C++)
+- [ZeroMQ Publisher/Subsriber](https://github.com/Marslanali/ZeroMQ)(C/C++)
 
 * 💬 Feel free to reach me for work-related inquiries.
 
