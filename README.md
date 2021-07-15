@@ -6,13 +6,6 @@
 
 * I design, build, and maintain efficient, reusable, and reliable solution using C/C++ and Python. I also have a strong passion for AI & Machine Learning. 
 
-Here are some of my open-source projects. 
-
-- [Gaussian mixture regression](https://github.com/Marslanali/cpp-learning-fom-demonstration) (C++)
-- [Template Matching](https://github.com/Marslanali/cpp-template-matching) (C++)
-- [Kmeans Clustering](https://github.com/Marslanali/cpp-kmeans-clustering) (C++)
-- [PaserCSV](https://github.com/Marslanali/cpp-csv-parser) (C++)
-- [ZeroMQ Publisher/Subsriber](https://github.com/Marslanali/ZeroMQ) (C/C++)
 
 * 💬 Feel free to reach me for work-related inquiries.
 
